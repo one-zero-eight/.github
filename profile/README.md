@@ -1,7 +1,9 @@
 <p align="center">
   <a href="https://innohassle.ru">Website</a> •
   <a href="https://t.me/one_zero_eight">Telegram</a> •
-  <a href="https://www.youtube.com/@one-zero-eight">YouTube</a>
+  <a href="https://www.youtube.com/@one-zero-eight">YouTube</a> •
+  <a href="https://github.com/orgs/one-zero-eight/projects/11/views/1">Roadmap</a> •
+  <a href="https://github.com/orgs/one-zero-eight/projects/4/views/1">Task Board</a>
 </p>
 
 ## About Us
