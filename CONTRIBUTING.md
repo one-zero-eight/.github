@@ -11,7 +11,7 @@ There are multiple ways how you can help:
 - 🐞 **Report a bug or request a feature**<br/>Go to the related repository and create a new issue for the bug/feature (go to `Issues` → `New Issue`).
 - 💡 **Suggest an idea**<br/>In case you belive we lack something at Innopolis, we have a [one-zero-eight/roadmap](https://github.com/one-zero-eight/roadmap) repository, where you can open an issue to suggest your idea (your authorship will be preserved!).
 - ✍️ **Send a feedback**<br/>If you have something to say about our activity, projects or anything else, you can send a feedback with [this Google Form](https://forms.gle/yqtqobmt44CB6fFW7).
-- 🧑🏻‍💻 **Write code**<br/>Continue reading this guide, if you want to send a pull request to one of our repositories.
+- 🧑🏻‍💻 **Write code**<br/>Pick up an issue from [the board](https://github.com/orgs/one-zero-eight/projects/4) and continue reading this guide, if you want to send a pull request to one of our repositories.
 
 ## Sending Pull Request
 
