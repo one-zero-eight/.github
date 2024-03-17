@@ -19,6 +19,7 @@ Our mission is to create the perfect environment for student life at Innopolis U
 - Accounts (🚧 WIP) — [API](https://github.com/one-zero-eight/InNoHassle-Accounts) for managing IU user accounts, authentication and authorization.
 - Dormitory Rooms (🚧 WIP) — [API](https://github.com/one-zero-eight/InNoHassle-Rooms) and [Telegram Bot](https://github.com/one-zero-eight/InNoHassle-RoomsBot) for managing tasks in your dormitory room.
 - InNoHassle Bot (🚧 WIP) - [Telegram Bot](https://github.com/one-zero-eight/InNoHassle-Bot) to access our services (as an alternative to InNoHassle Website).
+- Sport Bot (🚧 WIP) - [Telegram Bot](https://github.com/one-zero-eight/sport-bot) for easy check-in to IU sports classes.
 
 ## Contributing
 
