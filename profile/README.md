@@ -16,10 +16,10 @@ Our mission is to create the perfect environment for student life at Innopolis U
 - InNoHassle Website — [ecosystem website](https://github.com/one-zero-eight/InNoHassle-Website) that provides access to our services and links to other IU resources.
 - Schedule (Events) — [API](https://github.com/one-zero-eight/InNoHassle-Events) and [parsers](https://github.com/one-zero-eight/InNoHassle-Parsers) for the schedule of classes, sports, cleaning, etc.
 - Music Room — [API](https://github.com/one-zero-eight/InNoHassle-MusicRoom) and [Telegram Bot](https://github.com/one-zero-eight/InNoHassle-MusicRoomBot) to easily book the music room at Innopolis Sports Complex.
+- Sport Bot — [Telegram Bot](https://github.com/one-zero-eight/sport-bot) to track sports progress and easily check-in for classes.
 - Accounts (🚧 WIP) — [API](https://github.com/one-zero-eight/InNoHassle-Accounts) for managing IU user accounts, authentication and authorization.
 - Dormitory Rooms (🚧 WIP) — [API](https://github.com/one-zero-eight/InNoHassle-Rooms) and [Telegram Bot](https://github.com/one-zero-eight/InNoHassle-RoomsBot) for managing tasks in your dormitory room.
-- InNoHassle Bot (🚧 WIP) - [Telegram Bot](https://github.com/one-zero-eight/InNoHassle-Bot) to access our services (as an alternative to InNoHassle Website).
-- Sport Bot (🚧 WIP) - [Telegram Bot](https://github.com/one-zero-eight/sport-bot) for easy check-in to IU sports classes.
+- InNoHassle Bot (🚧 WIP) — [Telegram Bot](https://github.com/one-zero-eight/InNoHassle-Bot) to access our services (as an alternative to InNoHassle Website).
 
 ## Contributing
 
