@@ -23,7 +23,7 @@ Our mission is to create the perfect environment for student life at Innopolis U
 - Sports - [API](https://github.com/one-zero-eight/sports) to requests data from InnoSport.
 - Chat cleaner bot - [Telegram Bot](https://github.com/one-zero-eight/chat-cleaner) to remove "joined" and "left" messages from Telegram chats.
 - Accounts — [API](https://github.com/one-zero-eight/accounts) for managing IU user accounts, authentication and authorization.
-- Dormitory rooms (🚧 WIP) — [API](https://github.com/one-zero-eight/rooms) and [Telegram Bot](https://github.com/one-zero-eight/rooms-bot) for managing tasks in your dormitory room.
+- Dorms — [API](https://github.com/one-zero-eight/rooms) and [Telegram Bot](https://github.com/one-zero-eight/rooms-bot) for managing tasks in your dormitory room.
 - InNoHassle bot (🚧 WIP) — [Telegram Bot](https://github.com/one-zero-eight/innohassle-bot) to access our services (as an alternative to InNoHassle Website).
 - Search (🚧 WIP) — [API](https://github.com/one-zero-eight/search), [ML](https://github.com/one-zero-eight/search-experiments), [Userbot](https://github.com/one-zero-eight/telegram-userbot-parser) to search anything among study materials, university documents, etc.
 - Apply bot — [Telegram Bot](https://github.com/one-zero-eight/apply-bot) for submitting applications to join one-zero-eight.
