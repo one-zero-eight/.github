@@ -13,10 +13,12 @@ Our mission is to create the perfect environment for student life at Innopolis U
 
 ## Projects
 
-- InNoHassle Website — [ecosystem website](https://github.com/one-zero-eight/website) that provides access to our services and links to other IU resources.
+- InNoHassle website — [ecosystem website](https://github.com/one-zero-eight/website) that provides access to our services and links to other IU resources.
+- InnoSport platform — [website](https://github.com/one-zero-eight/sport) to check in for sports and manage trainings.
 - Schedule (Events) — [API](https://github.com/one-zero-eight/events) and [parsers](https://github.com/one-zero-eight/parsers) for the schedule of classes, sports, cleaning, etc.
 - Room booking — [API](https://github.com/one-zero-eight/room-booking) for fetching rooms events and [website page](https://github.com/one-zero-eight/website) to view calendar and book rooms.
 - Maps — [API](https://github.com/one-zero-eight/maps) for fetching floor plans with info and [website page](https://github.com/one-zero-eight/website) to view the maps.
+- Printers (🚧 WIP) — [API and Telegram bot](https://github.com/one-zero-eight/printers) for printing and scanning via bot.
 - Browser extension — [extension](https://github.com/one-zero-eight/browser-extension) for Moodle auto-login, materials download, and quick links.
 - Music room — [API and Telegram Bot](https://github.com/one-zero-eight/music-room) to easily book the music room at Innopolis Sports Complex.
 - Sport bot — [Telegram Bot](https://github.com/one-zero-eight/sport-bot) to track sports progress and easily check-in for classes.
