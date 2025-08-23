@@ -23,12 +23,13 @@ Our mission is to create the perfect environment for student life at Innopolis U
 - Music room — [API and Telegram Bot](https://github.com/one-zero-eight/music-room) to easily book the music room at Innopolis Sports Complex.
 - Sport bot — [Telegram Bot](https://github.com/one-zero-eight/sport-bot) to track sports progress and easily check-in for classes.
 - Sports — [API](https://github.com/one-zero-eight/sports) to request data from InnoSport.
-- Chat helper bot — [Telegram Bot](https://github.com/one-zero-eight/chat-helper) to remove "joined" and "left" messages from Telegram chats.
+- Workshops — [API](https://github.com/one-zero-eight/workshops) and [website page](https://github.com/one-zero-eight/website) to check in to workshops on Bootcamp.
 - Accounts — [API](https://github.com/one-zero-eight/accounts) for managing IU user accounts, authentication and authorization.
 - Dorms — [API](https://github.com/one-zero-eight/rooms) and [Telegram Bot](https://github.com/one-zero-eight/rooms-bot) for managing tasks in your dormitory room.
 - Forms — [website page](https://github.com/one-zero-eight/website) to create link with pre-filled user data for Yandex Forms.
+- Schedule Builder — [API](https://github.com/one-zero-eight/schedule-builder-backend) and [Google Spreadsheets Plugin](https://github.com/one-zero-eight/schedule-builder-fronted) for the validating and resolving conflicts during schedule planning for Department of Education.
+- Chat helper bot — [Telegram Bot](https://github.com/one-zero-eight/chat-helper) to remove "joined" and "left" messages from Telegram chats.
 - Search (🚧 WIP) — [API](https://github.com/one-zero-eight/search) and [website page](https://github.com/one-zero-eight/website) to search anything among study materials, university documents and resources, etc.
-- Workshops (🚧 WIP) — [API](https://github.com/one-zero-eight/workshops) and [website page](https://github.com/one-zero-eight/website) to check in to workshops on Bootcamp.
 - Apply bot — [Telegram Bot](https://github.com/one-zero-eight/apply-bot) for submitting applications to join one-zero-eight.
 - 1519 (🚧 WIP) — [API and website](https://github.com/one-zero-eight/1519) to organize the 1519 scholarship.
 - InNoHassle bot (🚧 WIP) — [Telegram Bot](https://github.com/one-zero-eight/innohassle-bot) to access our services (as an alternative to InNoHassle Website).
