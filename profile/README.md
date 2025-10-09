@@ -22,7 +22,6 @@ Our mission is to create the perfect environment for student life at Innopolis U
 - Browser extension — [extension](https://github.com/one-zero-eight/browser-extension) for Moodle auto-login, materials download, and quick links.
 - Music room — [API and Telegram Bot](https://github.com/one-zero-eight/music-room) to easily book the music room at Innopolis Sports Complex.
 - Sport bot — [Telegram Bot](https://github.com/one-zero-eight/sport-bot) to track sports progress and easily check-in for classes.
-- Sports — [API](https://github.com/one-zero-eight/sports) to request data from InnoSport.
 - Workshops — [API](https://github.com/one-zero-eight/workshops) and [website page](https://github.com/one-zero-eight/website) to check in to workshops on Bootcamp.
 - Accounts — [API](https://github.com/one-zero-eight/accounts) for managing IU user accounts, authentication and authorization.
 - Dorms — [API](https://github.com/one-zero-eight/rooms) and [Telegram Bot](https://github.com/one-zero-eight/rooms-bot) for managing tasks in your dormitory room.
