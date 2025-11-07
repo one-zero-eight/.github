@@ -22,6 +22,7 @@ Our mission is to create the perfect environment for student life at Innopolis U
 - Browser extension — [extension](https://github.com/one-zero-eight/browser-extension) for Moodle auto-login, materials download, and quick links.
 - Music room — [API and Telegram Bot](https://github.com/one-zero-eight/music-room) to easily book the music room at Innopolis Sports Complex.
 - Sport bot — [Telegram Bot](https://github.com/one-zero-eight/sport-bot) to track sports progress and easily check-in for classes.
+- Clubs — [API](https://github.com/one-zero-eight/clubs) and [website page](https://github.com/one-zero-eight/website) for managing Innopolis clubs.
 - Events (`workshops`) — [API](https://github.com/one-zero-eight/workshops) and [website page](https://github.com/one-zero-eight/website) to manage university events and check in.
 - Accounts — [API](https://github.com/one-zero-eight/accounts) for managing IU user accounts, authentication and authorization.
 - Dorms — [API](https://github.com/one-zero-eight/rooms) and [Telegram Bot](https://github.com/one-zero-eight/rooms-bot) for managing tasks in your dormitory room.
@@ -35,7 +36,6 @@ Our mission is to create the perfect environment for student life at Innopolis U
 - InNoHassle bot (🚧 WIP) — [Telegram Bot](https://github.com/one-zero-eight/innohassle-bot) to access our services (as an alternative to InNoHassle Website).
 - Academic Tutorship bot (🚧 WIP) — [Telegram Bot](https://github.com/one-zero-eight/academic-tutorship-bot) to organize tutorship lectures and collect attendance.
 - Broadcast (🚧 WIP) — [Telegram bot](https://github.com/one-zero-eight/broadcast) to get notifications about schedule changes from DoE.
-- Clubs (🚧 WIP) — [API](https://github.com/one-zero-eight/clubs) and [website page](https://github.com/one-zero-eight/website) for managing Innopolis clubs.
 
 ## Contributing
 
