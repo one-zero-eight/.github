@@ -34,7 +34,6 @@ Our mission is to create the perfect environment for student life at Innopolis U
 - Apply bot — [Telegram Bot](https://github.com/one-zero-eight/apply-bot) for submitting applications to join one-zero-eight.
 - 1519 — [API and website](https://github.com/one-zero-eight/1519) to organize the 1519 scholarship.
 - Board games (🚧 WIP) — [API](https://github.com/one-zero-eight/board-games) and [website page](https://github.com/one-zero-eight/website) to book board games from catalogue.
-- InNoHassle bot (🚧 WIP) — [Telegram Bot](https://github.com/one-zero-eight/innohassle-bot) to access our services (as an alternative to InNoHassle Website).
 - Academic Tutorship bot (🚧 WIP) — [Telegram Bot](https://github.com/one-zero-eight/academic-tutorship-bot) to organize tutorship lectures and collect attendance.
 - Broadcast (🚧 WIP) — [Telegram bot](https://github.com/one-zero-eight/broadcast) to get notifications about schedule changes from DoE.
 
