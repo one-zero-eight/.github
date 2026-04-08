@@ -22,6 +22,7 @@ Our mission is to create the perfect environment for student life at Innopolis U
 - Browser extension — [extension](https://github.com/one-zero-eight/browser-extension) for Moodle auto-login, materials download, and quick links. _(Artem Bulgakov)_
 - Music room — [API and Telegram Bot](https://github.com/one-zero-eight/music-room) to easily book the music room at Innopolis Sports Complex. _(Sergey Knyazkin)_
 - Sport bot — [Telegram Bot](https://github.com/one-zero-eight/sport-bot) to track sports progress and easily check-in for classes.
+- Academic Tutorship bot — [Telegram Bot](https://github.com/one-zero-eight/academic-tutorship-bot) to organize tutorship lectures and collect attendance. _(Andrew Gekhtin, Stepan Tarabin)_
 - Clubs — [API](https://github.com/one-zero-eight/clubs) and [website page](https://github.com/one-zero-eight/website) for managing Innopolis clubs. _(Artem Bulgakov)_
 - Events (`workshops`) — [API](https://github.com/one-zero-eight/workshops) and [website page](https://github.com/one-zero-eight/website) to manage university events and check in. _(Alexandr Zolotarev, Mikhail Istomin)_
 - Accounts — [API](https://github.com/one-zero-eight/accounts) for managing IU user accounts, authentication and authorization. _(Artem Bulgakov)_
@@ -37,7 +38,6 @@ Our mission is to create the perfect environment for student life at Innopolis U
 - Apply bot — [Telegram Bot](https://github.com/one-zero-eight/apply-bot) for submitting applications to join one-zero-eight.
 - 1519 — [API and website](https://github.com/one-zero-eight/1519) to organize the 1519 scholarship.
 - Board games (🚧 WIP) — [API](https://github.com/one-zero-eight/board-games) and [website page](https://github.com/one-zero-eight/website) to book board games from catalogue. _(Azalia Alisheva)_
-- Academic Tutorship bot (🚧 WIP) — [Telegram Bot](https://github.com/one-zero-eight/academic-tutorship-bot) to organize tutorship lectures and collect attendance. _(Andrew Gekhtin, Stepan Tarabin)_
 - Broadcast (🚧 WIP) — [Telegram bot](https://github.com/one-zero-eight/broadcast) to get notifications about schedule changes from DoE. _(Kamil Akhmadiev)_
 
 ## Contributing
