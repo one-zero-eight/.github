@@ -38,13 +38,48 @@ This can save time for everyone and help features to be deliveried faster.
 
 ### Commit convention
 
-We follow [Conventional Commits](https://www.conventionalcommits.org/) for commit messages, which allows the changelogs to be auto-generated.
-Please read the guide if you aren't familiar with it already.
+We follow [Conventional Commits](https://www.conventionalcommits.org/) so changelogs can be auto-generated.
+Use this format:
 
-Note that `fix` and `feat` commit types are for **actual code changes that affect logic**.
-If your commit changes docs or fixes typos, use `docs` or `chore` instead:
+```
+<type>(<optional scope>): <short description in imperative mood>
+```
 
-- <s>`fix: typo`</s> → `docs: fix typo`
+**Scope** is optional: name the area you touched, most probably it will be the service name or page name (`clubs`, `maps`, etc.).
+
+- **feat** — new feature or user-visible behavior.  
+  e.g. `feat(maps): add floor picker to map viewer`
+- **fix** — bug fix in application logic.
+  e.g. `fix(clubs): reject empty club description on update`
+- **chore** — housekeeping with no user-facing behavior change (we use this often). Tooling, config,
+  repo layout, small cleanups, typos in docs when you do not want a `docs:` commit.  
+  e.g. `chore: update prek hook revisions`, `chore(maps): rename internal settings key`
+- **docs** — documentation only (README, comments, guides).
+  e.g. `docs: fix typo in contribution guide`
+- **test** — add or change tests only.  
+  e.g. `test(maps): cover scene list pagination`
+- **refactor** — restructuring or rewriting application code for clarity or quality, with
+  the same behavior as before (extract modules, rename layers, simplify control flow). Not for config,
+  tooling, or repo housekeeping — use `chore` for those.  
+  e.g. `refactor(clubs): split repository into read and write modules`
+- **perf** — performance improvement.  
+  e.g. `perf(maps): cache scene thumbnails in memory`
+- **style** — formatting, whitespace, lint fixes that do not change behavior.  
+  e.g. `style: apply ruff format to student_affairs routes`
+- **build** — build system or dependencies (`pyproject.toml`, `uv.lock`, Docker).  
+  e.g. `build: bump fastapi to 0.115.0`
+- **ci** — CI config and scripts (GitHub Actions, hooks).  
+  e.g. `ci: run pytest on pull request`
+
+**feat** and **fix** are for **changes that affect runtime behavior**. When in doubt, use **chore** for
+anything that does not change what users see or how the app runs.
+
+- typo or README only → `docs: …` (not `fix: typo`)
+- dependency or lockfile bump → `build: …`
+- test-only PR → `test: …` or `test(scope): …`
+- rewrite or reorganize service code, same behavior → `refactor(scope): …` (not `chore:`)
+
+See the [Conventional Commits spec](https://www.conventionalcommits.org/) for details.
 
 ### Creating pull request
 
