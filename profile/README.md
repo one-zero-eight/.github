@@ -17,13 +17,13 @@ Our mission is to create the perfect environment for student life at Innopolis U
 - InnoSport platform — [website](https://github.com/one-zero-eight/sport) to check in for sports and manage trainings. _(Artem Bulgakov)_
 - Schedule (`events`) — [API](https://github.com/one-zero-eight/events) and [parsers](https://github.com/one-zero-eight/parsers) for the schedule of classes, sports, cleaning, etc. _(Alexandr Zolotarev)_
 - Room booking — [API](https://github.com/one-zero-eight/room-booking) for fetching rooms events and [website page](https://github.com/one-zero-eight/website) to view calendar and book rooms. _(Vladislav Konovalov)_
-- Maps — [API](https://github.com/one-zero-eight/maps) for fetching floor plans with info and [website page](https://github.com/one-zero-eight/website) to view the maps. _(Danil Chegaev)_
+- Maps — [API](https://github.com/one-zero-eight/monorepo) for fetching floor plans with info and [website page](https://github.com/one-zero-eight/website) to view the maps. _(Danil Chegaev)_
 - Printers — [API and Telegram bot](https://github.com/one-zero-eight/printers) for printing and scanning via bot. _(Danil Chegaev)_
 - Browser extension — [extension](https://github.com/one-zero-eight/browser-extension) for Moodle auto-login, materials download, and quick links. _(Artem Bulgakov)_
 - Music room — [API and Telegram Bot](https://github.com/one-zero-eight/music-room) to easily book the music room at Innopolis Sports Complex. _(Sergey Knyazkin)_
 - Sport bot — [Telegram Bot](https://github.com/one-zero-eight/sport-bot) to track sports progress and easily check-in for classes.
 - Academic Tutorship bot — [Telegram Bot](https://github.com/one-zero-eight/academic-tutorship-bot) to organize tutorship lectures and collect attendance. _(Andrew Gekhtin, Stepan Tarabin)_
-- Clubs — [API](https://github.com/one-zero-eight/clubs) and [website page](https://github.com/one-zero-eight/website) for managing Innopolis clubs. _(Artem Bulgakov)_
+- Clubs — [API](https://github.com/one-zero-eight/monorepo) and [website page](https://github.com/one-zero-eight/website) for managing Innopolis clubs. _(Artem Bulgakov)_
 - Events (`workshops`) — [API](https://github.com/one-zero-eight/workshops) and [website page](https://github.com/one-zero-eight/website) to manage university events and check in. _(Alexandr Zolotarev, Mikhail Istomin)_
 - Accounts — [API](https://github.com/one-zero-eight/accounts) for managing IU user accounts, authentication and authorization. _(Artem Bulgakov)_
 - Dorms — [API](https://github.com/one-zero-eight/rooms) and [Telegram Bot](https://github.com/one-zero-eight/rooms-bot) for managing tasks in your dormitory room. _(Maxim Fomin)_
@@ -33,7 +33,7 @@ Our mission is to create the perfect environment for student life at Innopolis U
 - Chat helper bot — [Telegram Bot](https://github.com/one-zero-eight/chat-helper) to remove "joined" and "left" messages from Telegram chats. _(Ruslan Belkov)_
 - Timer — [website page](https://github.com/one-zero-eight/website) to run countdown timer on exams, contests, etc. _(Khayotbek Mamajonov)_
 - Scholarship — [website page](https://github.com/one-zero-eight/website) to calculate student scholarship. _(Artem Bulgakov)_
-- Student Affairs — [API](https://github.com/one-zero-eight/student-affairs) to authenticate into 319 helpdesk. _(Artem Bulgakov)_
+- Student Affairs — [API](https://github.com/one-zero-eight/monorepo) to authenticate into 319 helpdesk. _(Artem Bulgakov)_
 - Search — [API](https://github.com/one-zero-eight/search) and [website page](https://github.com/one-zero-eight/website) to search anything among study materials, university documents and resources, etc. _(Anna Belyakova)_
 - Apply bot — [Telegram Bot](https://github.com/one-zero-eight/apply-bot) for submitting applications to join one-zero-eight.
 - 1519 — [API and website](https://github.com/one-zero-eight/1519) to organize the 1519 scholarship.
