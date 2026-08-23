@@ -37,6 +37,7 @@ Our mission is to create the perfect environment for student life at Innopolis U
 - Search — [API](https://github.com/one-zero-eight/search) and [website page](https://github.com/one-zero-eight/website) to search anything among study materials, university documents and resources, etc. _(Anna Belyakova)_
 - Apply bot — [Telegram Bot](https://github.com/one-zero-eight/apply-bot) for submitting applications to join one-zero-eight.
 - 1519 — [API and website](https://github.com/one-zero-eight/1519) to organize the 1519 scholarship.
+- Table Tennis — [API](https://github.com/one-zero-eight/monorepo) and [website page](https://github.com/one-zero-eight/website) to manage competitive table tennis matches. _(Aidar Gaifullin and Lenaz Fagamutdinov)_
 - Board games (🚧 WIP) — [API](https://github.com/one-zero-eight/board-games) and [website page](https://github.com/one-zero-eight/website) to book board games from catalogue. _(Azalia Alisheva)_
 - Broadcast (🚧 WIP) — [Telegram bot](https://github.com/one-zero-eight/broadcast) to get notifications about schedule changes from DoE. _(Kamil Akhmadiev)_
 - When2Meet (🚧 WIP) — [API](https://github.com/one-zero-eight/monorepo) and [website page](https://github.com/one-zero-eight/website/) to select the appropriate time for meetings. _(Timur Khasanov)_
