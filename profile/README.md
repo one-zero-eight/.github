@@ -39,6 +39,8 @@ Our mission is to create the perfect environment for student life at Innopolis U
 - 1519 — [API and website](https://github.com/one-zero-eight/1519) to organize the 1519 scholarship.
 - Board games (🚧 WIP) — [API](https://github.com/one-zero-eight/board-games) and [website page](https://github.com/one-zero-eight/website) to book board games from catalogue. _(Azalia Alisheva)_
 - Broadcast (🚧 WIP) — [Telegram bot](https://github.com/one-zero-eight/broadcast) to get notifications about schedule changes from DoE. _(Kamil Akhmadiev)_
+- When2Meet (🚧 WIP) — [API](https://github.com/one-zero-eight/monorepo) and [website page](https://github.com/one-zero-eight/website/) to select the appropriate time for meetings. _(Timur Khasanov)_
+- Alumap (🚧 WIP) — [Portal](https://github.com/iu-alumni) for alumni. _(Vladislav Konovalov)_
 
 ## Contributing
 
