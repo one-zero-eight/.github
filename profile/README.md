@@ -51,3 +51,12 @@ If you are interested in contributing, please read our [contribution guide](http
 
 If you are ready to spend more time, you can join our team where we discuss new ideas, participate in hackatons, watch movies at night and do many more things together.
 To join, answer some questions to our [Telegram Bot](https://t.me/one_zero_eight_bot) and we will contact you.
+
+![Overall contribution statistics for the last six months](https://raw.githubusercontent.com/one-zero-eight/contributors-leaderboard/main/leaderboard-overall-summary.svg)
+
+<details>
+<summary>View last month’s contributor leaderboard</summary>
+
+![Overall contributor leaderboard for the last month](https://raw.githubusercontent.com/one-zero-eight/contributors-leaderboard/main/leaderboard-overall-month.svg)
+
+</details>
