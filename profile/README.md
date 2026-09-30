@@ -15,7 +15,7 @@ Our mission is to create the perfect environment for student life at Innopolis U
 
 - InNoHassle website — [ecosystem website](https://github.com/one-zero-eight/website) that provides access to our services and links to other IU resources. _(Artem Bulgakov)_
 - InnoSport platform — [website](https://github.com/one-zero-eight/sport) to check in for sports and manage trainings. _(Artem Bulgakov)_
-- Schedule (`events`) — [API](https://github.com/one-zero-eight/events) and [parsers](https://github.com/one-zero-eight/parsers) for the schedule of classes, sports, cleaning, etc. _(Alexandr Zolotarev)_
+- Schedule — [API](https://github.com/one-zero-eight/monorepo) and [parsers](https://github.com/one-zero-eight/parsers) for the schedule of classes, sports, cleaning, etc. _(Alexandr Zolotarev)_
 - Room booking — [API](https://github.com/one-zero-eight/monorepo) for fetching rooms events and [website page](https://github.com/one-zero-eight/website) to view calendar and book rooms. _(Vladislav Konovalov)_
 - Maps — [API](https://github.com/one-zero-eight/monorepo) for fetching floor plans with info and [website page](https://github.com/one-zero-eight/website) to view the maps. _(Alena Artemeva)_
 - Printers — [API and Telegram bot](https://github.com/one-zero-eight/printers) for printing and scanning via bot.
@@ -24,7 +24,7 @@ Our mission is to create the perfect environment for student life at Innopolis U
 - Sport bot — [Telegram Bot](https://github.com/one-zero-eight/sport-bot) to track sports progress and easily check-in for classes.
 - Academic Tutorship bot — [Telegram Bot](https://github.com/one-zero-eight/academic-tutorship-bot) to organize tutorship lectures and collect attendance. _(Andrew Gekhtin and Stepan Tarabin)_
 - Clubs — [API](https://github.com/one-zero-eight/monorepo) and [website page](https://github.com/one-zero-eight/website) for managing Innopolis clubs. _(Artem Bulgakov)_
-- Events (`workshops`) — [API](https://github.com/one-zero-eight/workshops) and [website page](https://github.com/one-zero-eight/website) to manage university events and check in. _(Alexandr Zolotarev, Mikhail Istomin)_
+- Events — [API](https://github.com/one-zero-eight/monorepo) and [website page](https://github.com/one-zero-eight/website) to manage university events and check in. _(Alexandr Zolotarev, Mikhail Istomin)_
 - Accounts — [API](https://github.com/one-zero-eight/accounts) for managing IU user accounts, authentication and authorization. _(Artem Bulgakov)_
 - Dorms — [API](https://github.com/one-zero-eight/rooms) and [Telegram Bot](https://github.com/one-zero-eight/rooms-bot) for managing tasks in your dormitory room.
 - Forms — [API](https://github.com/one-zero-eight/monorepo) and [website page](https://github.com/one-zero-eight/website) to create link with pre-filled user data for Yandex Forms. _(Vladislav Konovalov)_
@@ -38,8 +38,8 @@ Our mission is to create the perfect environment for student life at Innopolis U
 - Apply bot — [Telegram Bot](https://github.com/one-zero-eight/apply-bot) for submitting applications to join one-zero-eight.
 - 1519 — [API and website](https://github.com/one-zero-eight/1519) to organize the 1519 scholarship.
 - Table Tennis — [API](https://github.com/one-zero-eight/monorepo) and [website page](https://github.com/one-zero-eight/website) to manage competitive table tennis matches. _(Aidar Gaifullin and Lenaz Fagamutdinov)_
-- Board games (🚧 WIP) — [API](https://github.com/one-zero-eight/board-games) and [website page](https://github.com/one-zero-eight/website) to book board games from catalogue. _(Azalia Alisheva)_
-- When2Meet (🚧 WIP) — [API](https://github.com/one-zero-eight/monorepo) and [website page](https://github.com/one-zero-eight/website/) to select the appropriate time for meetings. _(Timur Khasanov)_
+- When2Meet — [API](https://github.com/one-zero-eight/monorepo) and [website page](https://github.com/one-zero-eight/website/) to select the appropriate time for meetings. _(Timur Khasanov)_
+- Board games (🚧 WIP) — [API](https://github.com/one-zero-eight/monorepo) and [website page](https://github.com/one-zero-eight/website) to book board games from catalogue. _(Azalia Alisheva)_
 - Alumap (🚧 WIP) — [Portal](https://github.com/iu-alumni) for alumni. _(Vladislav Konovalov)_
 
 ## Contributing
