@@ -12,16 +12,12 @@ body:
     id: feature-description
     attributes:
       label: Describe the feature
-      description: A clear and concise description of what the feature is.
-      placeholder: Feature description
-    validations:
-      required: true
-  - type: textarea
-    id: suggested-solution
-    attributes:
-      label: Suggested solution
-      description: We could provide following implementation...
-      placeholder: Your thoughts on the solution
+      description: Specify context of the current situation. Write a clear and concise description of what the feature is. Provide your thoughts on the solution.
+      placeholder: Feature description...
+      value: |
+        Context: ...
+        Feature description: ...
+        Suggested solution: ...
     validations:
       required: true
   - type: textarea
