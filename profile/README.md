@@ -29,7 +29,7 @@ Our mission is to create the perfect environment for student life at Innopolis U
 - Dorms — [API](https://github.com/one-zero-eight/rooms) and [Telegram Bot](https://github.com/one-zero-eight/rooms-bot) for managing tasks in your dormitory room.
 - Forms — [API](https://github.com/one-zero-eight/monorepo) and [website page](https://github.com/one-zero-eight/website) to create link with pre-filled user data for Yandex Forms. _(Vladislav Konovalov)_
 - Guard — [API](https://github.com/one-zero-eight/monorepo) and [website page](https://github.com/one-zero-eight/website) to authenticate users in Google Spreadsheets. _(Vladislav Konovalov)_
-- Schedule Builder — [API](https://github.com/one-zero-eight/schedule-builder-backend) and [Google Spreadsheets Plugin](https://github.com/one-zero-eight/schedule-builder-frontend) for the validating and resolving conflicts during schedule planning for Department of Education. _(Ruslan Belkov)_
+- Schedule assistant — [API](https://github.com/one-zero-eight/monorepo) and [website page](https://github.com/one-zero-eight/website) for building the schedule, validating and resolving conflicts for Department of Education. _(Ruslan Belkov)_
 - Chat helper bot — [Telegram Bot](https://github.com/one-zero-eight/chat-helper) to remove "joined" and "left" messages from Telegram chats. _(Ruslan Belkov)_
 - Timer — [website page](https://github.com/one-zero-eight/website) to run countdown timer on exams, contests, etc. _(Khayotbek Mamajonov)_
 - Scholarship — [website page](https://github.com/one-zero-eight/website) to calculate student scholarship. _(Andrew Gekhtin)_
