@@ -28,7 +28,6 @@ Our mission is to create the perfect environment for student life at Innopolis U
 - Accounts — [API](https://github.com/one-zero-eight/accounts) for managing IU user accounts, authentication and authorization.
 - Dorms — [API](https://github.com/one-zero-eight/rooms) and [Telegram Bot](https://github.com/one-zero-eight/rooms-bot) for managing tasks in your dormitory room.
 - Forms — [API](https://github.com/one-zero-eight/monorepo) and [website page](https://github.com/one-zero-eight/website) to create link with pre-filled user data for Yandex Forms.
-- Guard — [API](https://github.com/one-zero-eight/monorepo) and [website page](https://github.com/one-zero-eight/website) to authenticate users in Google Spreadsheets.
 - Schedule assistant — [API](https://github.com/one-zero-eight/monorepo) and [website page](https://github.com/one-zero-eight/website) for building the schedule, validating and resolving conflicts for Department of Education.
 - Chat helper bot — [Telegram Bot](https://github.com/one-zero-eight/chat-helper) to remove "joined" and "left" messages from Telegram chats.
 - Timer — [website page](https://github.com/one-zero-eight/website) to run countdown timer on exams, contests, etc.
