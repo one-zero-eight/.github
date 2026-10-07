@@ -37,6 +37,15 @@ This can save time for everyone and help features to be deliveried faster.
 
 **For small changes:** it's better to batch multiple typo fixes and small refactoring changes into one pull request to keep the commit history clean.
 
+#### How to use the [Task Board](https://github.com/orgs/one-zero-eight/projects/4)
+
+Tasks are splitted by services. Service is a user-facing product, it may have API code, bots, website pages, so tasks for one service may be stored in different repositories. The issues may be in different states:
+- Backlog: Something planned for the future or not-so-urgent tasks (discuss with somebody whether the task is relevant).
+- TODO: Tasks ready to be taken (you should assign yourself and move to In progress when started working).
+- In progress: The work is started.
+- In review: Task is done and requires review from somebody.
+- Done: The issue is closed and merged into main branch.
+
 #### Commit convention
 
 We follow [Conventional Commits](https://www.conventionalcommits.org/) so changelogs can be auto-generated.
