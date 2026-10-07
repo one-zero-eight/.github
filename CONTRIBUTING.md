@@ -12,6 +12,7 @@ There are multiple ways how you can help:
 - 💡 **Suggest an idea**<br/>In case you belive we lack something at Innopolis, we have a [one-zero-eight/roadmap](https://github.com/one-zero-eight/roadmap) repository, where you can open an issue to suggest your idea (your authorship will be preserved!).
 - ✍️ **Send a feedback**<br/>If you have something to say about our activity, projects or anything else, you can send a feedback with [this Google Form](https://forms.gle/yqtqobmt44CB6fFW7).
 - 🧑🏻‍💻 **Write code**<br/>Pick up an issue from [the board](https://github.com/orgs/one-zero-eight/projects/4) and continue reading this guide, if you want to send a pull request to one of our repositories.
+- 🖌️ **Design**<br/>Help us improve the look and usability of our projects! Propose improvements to an existing interface, create illustrations for our events or make any other design work with our community.
 
 
 ## English only
