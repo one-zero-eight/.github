@@ -117,6 +117,10 @@ If your PR closes an existing issue (e.g. #123), make sure to mention it using [
 Fixes #123.
 ```
 
+#### Deploy
+
+You can deploy to Staging server by yourself. Go to Actions -> Build and deploy workflow -> Run workflow -> Choose your branch, staging/pre environment, and your service -> Run workflow. If it doesn't work for you, ask maintainers.
+
 ## Prerequisites
 
 Before taking an issue, make sure you can do three things:
