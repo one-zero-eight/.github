@@ -13,33 +13,33 @@ Our mission is to create the perfect environment for student life at Innopolis U
 
 ## Projects
 
-- InNoHassle website — [ecosystem website](https://github.com/one-zero-eight/website) that provides access to our services and links to other IU resources.
-- InnoSport platform — [website](https://github.com/one-zero-eight/sport) to check in for sports and manage trainings.
-- Schedule — [API](https://github.com/one-zero-eight/monorepo) and [parsers](https://github.com/one-zero-eight/parsers) for the schedule of classes, sports, cleaning, etc.
-- Room booking — [API](https://github.com/one-zero-eight/monorepo) for fetching rooms events and [website page](https://github.com/one-zero-eight/website) to view calendar and book rooms.
-- Maps — [API](https://github.com/one-zero-eight/monorepo) for fetching floor plans with info and [website page](https://github.com/one-zero-eight/website) to view the maps.
-- Printers — [API and Telegram bot](https://github.com/one-zero-eight/printers) for printing and scanning via bot.
-- Browser extension — [extension](https://github.com/one-zero-eight/browser-extension) for Moodle auto-login, materials download, and quick links.
-- Music room — [API and Telegram Bot](https://github.com/one-zero-eight/music-room) to easily book the music room at Innopolis Sports Complex.
-- Sport bot — [Telegram Bot](https://github.com/one-zero-eight/sport-bot) to track sports progress and easily check-in for classes.
-- Academic Tutorship bot — [Telegram Bot](https://github.com/one-zero-eight/academic-tutorship-bot) to organize tutorship lectures and collect attendance.
-- Clubs — [API](https://github.com/one-zero-eight/monorepo) and [website page](https://github.com/one-zero-eight/website) for managing Innopolis clubs.
-- Events — [API](https://github.com/one-zero-eight/monorepo) and [website page](https://github.com/one-zero-eight/website) to manage university events and check in.
-- Accounts — [API](https://github.com/one-zero-eight/accounts) for managing IU user accounts, authentication and authorization.
-- Dorms — [API](https://github.com/one-zero-eight/rooms) and [Telegram Bot](https://github.com/one-zero-eight/rooms-bot) for managing tasks in your dormitory room.
-- Forms — [API](https://github.com/one-zero-eight/monorepo) and [website page](https://github.com/one-zero-eight/website) to create link with pre-filled user data for Yandex Forms.
-- Schedule assistant — [API](https://github.com/one-zero-eight/monorepo) and [website page](https://github.com/one-zero-eight/website) for building the schedule, validating and resolving conflicts for Department of Education.
-- Chat helper bot — [Telegram Bot](https://github.com/one-zero-eight/chat-helper) to remove "joined" and "left" messages from Telegram chats.
-- Timer — [website page](https://github.com/one-zero-eight/website) to run countdown timer on exams, contests, etc.
-- Scholarship — [website page](https://github.com/one-zero-eight/website) to calculate student scholarship.
-- Student Affairs — [API](https://github.com/one-zero-eight/monorepo) to authenticate into 319 helpdesk.
-- Search — [API](https://github.com/one-zero-eight/search) and [website page](https://github.com/one-zero-eight/website) to search anything among study materials, university documents and resources, etc.
-- Apply bot — [Telegram Bot](https://github.com/one-zero-eight/apply-bot) for submitting applications to join one-zero-eight.
-- 1519 — [API and website](https://github.com/one-zero-eight/1519) to organize the 1519 scholarship.
-- Table tennis — [API](https://github.com/one-zero-eight/monorepo) and [website page](https://github.com/one-zero-eight/website) to manage competitive table tennis matches.
-- When2meet — [API](https://github.com/one-zero-eight/monorepo) and [website page](https://github.com/one-zero-eight/website/) to select the appropriate time for meetings.
-- Board games (🚧 WIP) — [API](https://github.com/one-zero-eight/monorepo) and [website page](https://github.com/one-zero-eight/website) to book board games from catalogue.
-- Alumap (🚧 WIP) — [Portal](https://github.com/iu-alumni) for alumni.
+- InNoHassle website — portal to access our services ([frontend](https://github.com/one-zero-eight/website)).
+- Sport — check in for sports and manage trainings ([django api & admin](https://github.com/one-zero-eight/sport), [frontend](https://github.com/one-zero-eight/website)).
+- Schedule — schedule of classes, sports, cleaning, etc. ([api](https://github.com/one-zero-eight/monorepo), [parsers](https://github.com/one-zero-eight/parsers), [frontend](https://github.com/one-zero-eight/website)).
+- Room booking — book university rooms, view events on a timeline ([api](https://github.com/one-zero-eight/monorepo), [frontend](https://github.com/one-zero-eight/website)).
+- Maps — view floor plans and details about each place ([api](https://github.com/one-zero-eight/monorepo), [frontend](https://github.com/one-zero-eight/website)).
+- Printers — print and scan on public university printers ([api & bot](https://github.com/one-zero-eight/printers), [frontend](https://github.com/one-zero-eight/website)).
+- Browser extension — auto-login into Moodle, materials download, quick access to university resources ([extension](https://github.com/one-zero-eight/browser-extension)).
+- Music room — book the music room at Innopolis Sports Complex ([api & bot](https://github.com/one-zero-eight/music-room), [frontend](https://github.com/one-zero-eight/website)).
+- Sport bot — track sports progress and easily check-in for classes ([bot](https://github.com/one-zero-eight/sport-bot)).
+- Academic Tutorship bot — organize tutorship lectures and collect attendance ([bot](https://github.com/one-zero-eight/academic-tutorship-bot)).
+- Clubs — explore student clubs and manage info ([api](https://github.com/one-zero-eight/monorepo), [frontend](https://github.com/one-zero-eight/website)).
+- Events — explore university events, check in, and create new events ([api](https://github.com/one-zero-eight/monorepo), [frontend](https://github.com/one-zero-eight/website)).
+- Accounts — user accounts management, authentication and authorization ([api](https://github.com/one-zero-eight/monorepo), [frontend](https://github.com/one-zero-eight/website)).
+- Dorms — manage duties in your dormitory room ([api](https://github.com/one-zero-eight/rooms), [bot](https://github.com/one-zero-eight/rooms-bot)).
+- Forms — create link with pre-filled user data for Yandex Forms ([api](https://github.com/one-zero-eight/monorepo), [frontend](https://github.com/one-zero-eight/website)).
+- Schedule assistant — build the schedule, validate and resolve conflicts for Department of Education ([api](https://github.com/one-zero-eight/monorepo), [frontend](https://github.com/one-zero-eight/website)).
+- Chat helper bot — remove "joined" and "left" messages from Telegram chats ([bot](https://github.com/one-zero-eight/chat-helper)).
+- Timer — run countdown timer on exams, contests, etc. ([frontend](https://github.com/one-zero-eight/website)).
+- Scholarship — calculate student scholarship ([frontend](https://github.com/one-zero-eight/website)).
+- Student Affairs — authenticate into 319 helpdesk ([api](https://github.com/one-zero-eight/monorepo), [frontend](https://github.com/one-zero-eight/website)).
+- Search — search anything among university services ([api](https://github.com/one-zero-eight/search), [frontend](https://github.com/one-zero-eight/website)).
+- Apply bot — submit applications to join one-zero-eight ([bot](https://github.com/one-zero-eight/apply-bot)).
+- 1519 — manage 1519 scholarship aplications ([api & frontend](https://github.com/one-zero-eight/1519)).
+- Table tennis — manage competitive table tennis matches ([api](https://github.com/one-zero-eight/search), [frontend](https://github.com/one-zero-eight/website)).
+- When2meet — easily select the appropriate time for meetings ([api](https://github.com/one-zero-eight/search), [frontend](https://github.com/one-zero-eight/website)).
+- Board games (🚧 WIP) — book board games from catalogue ([api](https://github.com/one-zero-eight/search), [frontend](https://github.com/one-zero-eight/website)).
+- Alumap (🚧 WIP) — alumni portal ([backend](https://github.com/dofi4ka/iu-alumni-backend), [frontend](https://github.com/dofi4ka/iu-alumni-frontend), [mobile](https://github.com/dofi4ka/iu-alumni-mobile)).
 
 ## Contributing
 
