@@ -35,7 +35,7 @@ Our mission is to create the perfect environment for student life at Innopolis U
 - Student Affairs — authenticate into 319 helpdesk ([api](https://github.com/one-zero-eight/monorepo), [frontend](https://github.com/one-zero-eight/website)).
 - Search — search anything among university services ([ml & api](https://github.com/one-zero-eight/search), [frontend](https://github.com/one-zero-eight/website)).
 - Apply bot — submit applications to join one-zero-eight ([bot](https://github.com/one-zero-eight/apply-bot)).
-- 1519 — manage 1519 scholarship aplications ([api & frontend](https://github.com/one-zero-eight/1519)).
+- 1519 — manage 1519 scholarship applications ([api & frontend](https://github.com/one-zero-eight/1519)).
 - Table tennis — manage competitive table tennis matches ([api](https://github.com/one-zero-eight/monorepo), [frontend](https://github.com/one-zero-eight/website)).
 - When2meet — easily select the appropriate time for meetings ([api](https://github.com/one-zero-eight/monorepo), [frontend](https://github.com/one-zero-eight/website)).
 - Board games (🚧 WIP) — book board games from catalogue ([api](https://github.com/one-zero-eight/monorepo), [frontend](https://github.com/one-zero-eight/website)).
