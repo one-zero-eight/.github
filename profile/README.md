@@ -30,7 +30,7 @@ Our mission is to create the perfect environment for student life at Innopolis U
 - Forms — create link with pre-filled user data for Yandex Forms ([api](https://github.com/one-zero-eight/monorepo), [frontend](https://github.com/one-zero-eight/website)).
 - Schedule assistant — build the schedule, validate and resolve conflicts for Department of Education ([api](https://github.com/one-zero-eight/monorepo), [frontend](https://github.com/one-zero-eight/website)).
 - Chat helper bot — remove "joined" and "left" messages from Telegram chats ([bot](https://github.com/one-zero-eight/chat-helper)).
-- Timer — run countdown timer on exams, contests, etc. ([frontend](https://github.com/one-zero-eight/website)).
+- Timer — run countdown timer on exams, contests, etc. ([api](https://github.com/one-zero-eight/monorepo), [frontend](https://github.com/one-zero-eight/website)).
 - Scholarship — calculate student scholarship ([frontend](https://github.com/one-zero-eight/website)).
 - Student Affairs — authenticate into 319 helpdesk ([api](https://github.com/one-zero-eight/monorepo), [frontend](https://github.com/one-zero-eight/website)).
 - Search — search anything among university services ([ml & api](https://github.com/one-zero-eight/search), [frontend](https://github.com/one-zero-eight/website)).
