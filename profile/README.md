@@ -39,7 +39,6 @@ Our mission is to create the perfect environment for student life at Innopolis U
 - Table tennis — manage competitive table tennis matches ([api](https://github.com/one-zero-eight/monorepo), [frontend](https://github.com/one-zero-eight/website)).
 - When2meet — easily select the appropriate time for meetings ([api](https://github.com/one-zero-eight/monorepo), [frontend](https://github.com/one-zero-eight/website)).
 - Board games (🚧 WIP) — book board games from catalogue ([api](https://github.com/one-zero-eight/monorepo), [frontend](https://github.com/one-zero-eight/website)).
-- Alumap (🚧 WIP) — alumni portal ([backend](https://github.com/dofi4ka/iu-alumni-backend), [frontend](https://github.com/dofi4ka/iu-alumni-frontend), [mobile](https://github.com/dofi4ka/iu-alumni-mobile)).
 
 ## Contributing
 
