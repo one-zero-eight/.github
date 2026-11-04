@@ -14,7 +14,7 @@ Our mission is to create the perfect environment for student life at Innopolis U
 ## Projects
 
 - InNoHassle website — access our services via web ([frontend](https://github.com/one-zero-eight/website)).
-- Sport — check in for sports and manage trainings ([django api & admin](https://github.com/one-zero-eight/sport), [frontend](https://github.com/one-zero-eight/website)).
+- Sport — check in for sports and manage trainings ([django admin & api](https://github.com/one-zero-eight/sport), [frontend](https://github.com/one-zero-eight/website)).
 - Schedule — schedule of classes, sports, cleaning, etc. ([api](https://github.com/one-zero-eight/monorepo), [parsers](https://github.com/one-zero-eight/parsers), [frontend](https://github.com/one-zero-eight/website)).
 - Room booking — book university rooms, view events on a timeline ([api](https://github.com/one-zero-eight/monorepo), [frontend](https://github.com/one-zero-eight/website)).
 - Maps — view floor plans and details about each place ([api](https://github.com/one-zero-eight/monorepo), [frontend](https://github.com/one-zero-eight/website)).
