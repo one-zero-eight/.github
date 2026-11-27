@@ -33,7 +33,7 @@ Our mission is to create the perfect environment for student life at Innopolis U
 - Timer — run countdown timer on exams, contests, etc. ([api](https://github.com/one-zero-eight/monorepo), [frontend](https://github.com/one-zero-eight/website)).
 - Scholarship — calculate student scholarship ([frontend](https://github.com/one-zero-eight/website)).
 - Student Affairs — authenticate into 319 helpdesk ([api](https://github.com/one-zero-eight/monorepo), [frontend](https://github.com/one-zero-eight/website)).
-- Search — search anything among university services ([ml & api](https://github.com/one-zero-eight/search), [frontend](https://github.com/one-zero-eight/website)).
+- Catix (🚧 WIP) — AI assistant with access to university services ([ml & api](https://github.com/one-zero-eight/search), [frontend](https://github.com/one-zero-eight/website)).
 - Apply bot — submit applications to join one-zero-eight ([bot](https://github.com/one-zero-eight/apply-bot)).
 - 1519 — manage 1519 scholarship applications ([api & frontend](https://github.com/one-zero-eight/1519)).
 - Table tennis — manage competitive table tennis matches ([api](https://github.com/one-zero-eight/monorepo), [frontend](https://github.com/one-zero-eight/website)).
