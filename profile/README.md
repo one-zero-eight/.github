@@ -38,7 +38,7 @@ Our mission is to create the perfect environment for student life at Innopolis U
 - 1519 — manage 1519 scholarship applications ([api & frontend](https://github.com/one-zero-eight/1519)).
 - Table tennis — manage competitive table tennis matches ([api](https://github.com/one-zero-eight/monorepo), [frontend](https://github.com/one-zero-eight/website)).
 - When2meet — easily select the appropriate time for meetings ([api](https://github.com/one-zero-eight/monorepo), [frontend](https://github.com/one-zero-eight/website)).
-- Board games (🚧 WIP) — book board games from catalogue ([api](https://github.com/one-zero-eight/monorepo), [frontend](https://github.com/one-zero-eight/website)).
+- Board games — book board games from catalogue ([api](https://github.com/one-zero-eight/monorepo), [frontend](https://github.com/one-zero-eight/website)).
 
 ## Contributing
 
